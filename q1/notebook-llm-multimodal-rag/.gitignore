@@ -1,0 +1,38 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.env
+.venv/
+env/
+venv/
+*.env
+
+# Uploaded or user data (documents, processed files)
+uploaded_data/
+data/
+documents/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# VS Code and other editor/project files
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and outputs
+*.log
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+
+# Node modules (if ever used for frontend add-ons)
+node_modules/
