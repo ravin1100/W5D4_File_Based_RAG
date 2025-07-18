@@ -1,4 +1,4 @@
-# 📚 Notebook LLM Multimodal RAG MVP
+# 📚 Notebook LLM - Complete Multimodal Research Assistant
 
 A **locally-deployable, production-ready, multimodal research assistant** enabling Retrieval-Augmented Generation (RAG) for complex documents (text, images, tables, and code) using advanced LLM and vision models.
 
